@@ -12,5 +12,5 @@ Open World Application
 
 ### Prove it
 
-- a prototype was built between 2019 and late 2021, we are in the progress of productizing specific streams for a soft launch in 2023
+- a prototype was built between 2019 and late 2021, we are in the progress of productizing specific streams for a soft launch in 2024
 - the initial rollout will be to researchers, grad students and the like; if you fit that population, email contact@nirvai.mozmail.com
