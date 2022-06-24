@@ -13,4 +13,5 @@ Open World Application
 ### Roadmap
 
 - a prototype was built between 2019 and late 2021, we are in the process of productizing specific streams for a soft launch in 2024
-- the initial rollout will be to researchers, grad students and the like; if you fit that population, email contact@nirvai.mozmail.com
+- the initial rollout will be to researchers, grad students and the like until we nail down product market fit; 
+- for early access consideration email contact@nirvai.mozmail.com
