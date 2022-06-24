@@ -10,7 +10,7 @@ Open World Application
 
 - yea, we want to increase humanity's effectiveness through an app on your phone
 
-### Prove it
+### Roadmap
 
 - a prototype was built between 2019 and late 2021, we are in the process of productizing specific streams for a soft launch in 2024
 - the initial rollout will be to researchers, grad students and the like; if you fit that population, email contact@nirvai.mozmail.com
