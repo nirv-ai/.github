@@ -8,7 +8,7 @@ Open World Application
 
 ### WTF does that mean?
 
-- yea, we want to increase humanity's effectiveness through an app on your phone
+- yea, we want to increase humanity's effectiveness through an app
 
 ### Roadmap
 
