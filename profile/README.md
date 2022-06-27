@@ -15,3 +15,8 @@ Open World Application
 - a prototype was built between 2019 and late 2021, we are in the process of productizing specific streams for a soft launch in 2024
 - the initial rollout will be to researchers, organizations and grad students until we nail down non-academic/b2b product market fit
 - for early access consideration email contact@nirvai.mozmail.com
+
+### NIRV Foss
+
+- If you find any of our open source projects useful, please follow the organization on github and share
+- contributions welcomed
