@@ -23,7 +23,5 @@ Open World Application
 
 ![image](https://user-images.githubusercontent.com/10324554/209758644-f57181a7-6f82-4464-acd3-652f62991b99.png)
 
-![image](https://user-images.githubusercontent.com/10324554/209758759-bee0f58f-b6d6-4b6b-b4aa-b73389889c1e.png)
-
 ![image](https://user-images.githubusercontent.com/10324554/209759391-d1bf8811-3043-4d07-bf5d-ce0de715e951.png)
 
