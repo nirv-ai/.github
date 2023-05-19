@@ -13,5 +13,3 @@ Open World Application
 - If you find any of our open source projects useful, please follow the organization on github and share
 - contributions welcomed
 
-![image](https://user-images.githubusercontent.com/10324554/209758644-f57181a7-6f82-4464-acd3-652f62991b99.png)
-
